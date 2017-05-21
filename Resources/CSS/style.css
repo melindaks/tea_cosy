@@ -26,11 +26,12 @@
   width: 200px;
 }
 .header ul {
-  text-decoration: underlined;
+
   list-style: none;
 }
 .header li {
   display: inline-flex;
   justify-content: space-between;
   padding: 10px;
+  text-decoration: underline;
 }
