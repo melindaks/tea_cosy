@@ -82,9 +82,10 @@ header li {
 }
 #feature {
   display: flex;
+  flex-direction: column;
+    align-items: center;
   width: 1000px;
-  justify-content: center;
-  align-content: center;
+  position: relative;
   flex-wrap: wrap;
   padding-bottom: 50px;
 }
@@ -102,7 +103,10 @@ header li {
 }
 
 .teaselection {
-margin: 0 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+margin: 5px 10px;
 }
 .teaselection img {
 display: block;
@@ -136,7 +140,7 @@ background: none;
 }
 .locbox {
   width: 300px;
-  margin: 0px 20px;
+  margin: 0 20px;
   line-height: 2;
   opacity: 1;
 }
