@@ -120,7 +120,7 @@ display: block;
   padding: 10px;
 }
 #location {
-background-image: url(../../resources/images/img-locations-background.jpg);
+background-image: url(../../Resources/images/img-locations-background.jpg);
 display: flex;
 flex-direction: column;
 justify-content: center;
