@@ -72,7 +72,7 @@ header li {
   flex-direction: column;
 }
 #mission {
-  background-image: url(../../resources/images/img-mission-background.jpg);
+  background-image: url(../../Resources/images/img-mission-background.jpg);
   height: 700px;
   max-width: 1200px;
   position: relative;
