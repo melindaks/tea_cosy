@@ -72,7 +72,7 @@ header li {
   flex-direction: column;
 }
 #mission {
-  background-image: url('../../Resources/images/img-mission-background.jpg');
+  background-image: url("../../Resources/images/img-mission-background.jpg");
   height: 700px;
   max-width: 1200px;
   position: relative;
@@ -120,7 +120,7 @@ display: block;
   padding: 10px;
 }
 #location {
-background-image: url(../../Resources/images/img-locations-background.jpg);
+background-image: url("../../Resources/images/img-locations-background.jpg");
 display: flex;
 flex-direction: column;
 justify-content: center;
